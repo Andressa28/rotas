@@ -1,0 +1,11 @@
+.cardiovascular {
+  background-color: rgb(255, 253, 156);
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 80vh;
+}

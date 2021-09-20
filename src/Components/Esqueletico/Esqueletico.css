@@ -1,0 +1,11 @@
+.esqueletico {
+  background-color: rgb(151, 235, 134);
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 80vh;
+}

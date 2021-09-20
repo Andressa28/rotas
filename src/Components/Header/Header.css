@@ -1,0 +1,52 @@
+header {
+  font-weight: bolder;
+}
+
+.menu {
+  height: 40px;
+  border: 2px solid rgb(13, 62, 155);
+  background-color: white;
+  padding-bottom: 30px;
+  font-size: 10px;
+  position: relative;
+  top: 0;
+  width: 100vw;
+}
+
+.menu2 {
+  height: 40px;
+  border: 2px solid rgb(13, 62, 155);
+  background-color: white;
+  padding-bottom: 30px;
+  font-size: 12px;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.navMenu ul,
+.navMenu2 ul {
+  list-style: none;
+  text-align: center;
+}
+
+.navMenu li,
+.navMenu2 li {
+  display: inline;
+}
+
+.navMenu ul li a,
+.navMenu2 ul li a {
+  font-size: 20px;
+  padding-left: 1.2vw;
+  display: inline-block;
+  color: #333;
+  text-decoration: none;
+}
+
+.navMenu ul li a:hover,
+.navMenu2 ul li a:hover {
+  color: rgb(76, 146, 85);
+  font-weight: bold;
+  font-size: 22px;
+}

@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+
+.titulo {
+  text-align: center;
+  padding-top: 8px;
+  font-family: "Raleway", sans-serif;
+}
+
+.biceps,
+.triceps,
+.cutaneos,
+.profundos {
+  background-color: rgb(86, 220, 225);
+}
+
+.medial,
+.lateral,
+.tendoes,
+.extensor,
+.rotadores {
+  background-color: rgb(86, 220, 225);
+}
